@@ -1,0 +1,26 @@
+#Icon {
+    height: 60px;
+    width: 60px;
+}
+
+#text-card {
+    color: white;
+}
+
+.btn-outline-dark:not(:disabled):not(.disabled).active, .btn-outline-dark:not(:disabled):not(.disabled):active, .show>.btn-outline-dark.dropdown-toggle {
+    background-color: #363738;
+    color: #D6BA73;
+}
+
+.btn-outline-dark:hover {
+    background-color: #363738 !important;
+    color: #D6BA73 !important;
+    border-color: #363738 !important;
+}
+
+.btn-outline-dark {
+    margin-top: 10px !important;
+    background-color: none !important;
+    color:#363738 !important;
+    border-color: #363738 !important;
+}
