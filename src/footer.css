@@ -1,0 +1,65 @@
+
+#contain-footer {
+    background: #363738 !important;
+    height: 200px;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin: 0%;
+}
+
+.contacts {
+    font-family: 'Quicksand';
+    font-weight: 400;
+    font-size: 13px;
+    color:white;
+}
+
+.contacts {
+    text-decoration: none;
+    text-align: center;
+    color:white;
+}
+
+.contacts:active {
+    color:white;
+}
+
+.contacts:link {
+    color:white;
+}
+
+.contacts:hover {
+    color:white;
+}
+
+.contacts:visited {
+    color:white;
+}
+
+.enlaces {
+    font-family: 'Quicksand';
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    color:white;
+}
+
+.enlaces {
+    text-decoration: none;
+}
+
+.enlaces:active {
+    color:white;
+}
+
+.enlaces:link {
+    color:white;
+}
+
+.enlaces:hover {
+    color:white;
+}
+
+.enlaces:visited {
+    color:white;
+}

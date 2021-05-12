@@ -2,7 +2,9 @@ import Card from './card';
 import Navbar from './Navbar';
 import './App.css';
 import Carousel from './Carousel';
-import Hero from './hero'
+import Hero from './hero';
+import Footer from './footer';
+
 
 function App() {
   return (
@@ -23,8 +25,9 @@ function App() {
       <Card />
       <Card />
       </div>
-      </div>
-    </div>
+</div>
+<Footer />
+</div>
   );
 }
 
