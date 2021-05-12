@@ -1,0 +1,81 @@
+#Icond {
+    height: 60px;
+    width: 60px;
+}
+
+Nav {
+    background-color: #D6BA73;
+    height: 75px;
+    }
+
+Nav .Brand p {
+    text-align: center;
+}
+
+Nav .Brand {
+    position: relative;
+    display: inline-block;
+}
+
+Nav .img-top {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+
+Nav .Brand:hover .img-top {
+    display: inline;
+}
+
+
+Nav .img-bottom {
+    display: inline;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+
+Nav .Brand:hover .img-bottom {
+    display: none;
+}
+
+Nav .btn:hover {
+    background-color: #59344F !important;
+    border-color: #59344F !important;
+    color: #D6BA73 !important;
+    font-size: 15px;
+    }
+
+Nav .btn-outline-success:hover {
+    background-color: #59344F;
+    border-color: #59344F;
+    color: #D6BA73;
+    font-size: 15px;
+    }
+
+Nav .btn-outline-success {
+background-color:none;
+border-color: #59344F;
+color: #59344F;
+font-size: 15px;
+}
+
+Nav .btn-outline-success:focus {
+    background-color: none;
+    border-color: #59344F;
+    color: #59344F;
+    font-size: 15px;
+    }
+
+Nav .btn-outline-success:visited {
+    background-color: none;
+    border-color: #59344F;
+    color: #D6BA73;
+    font-size: 15px;
+    }
+
+Nav .form-control {
+    border-color: #D6BA73;
+}
