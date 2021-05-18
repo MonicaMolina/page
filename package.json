@@ -2,7 +2,7 @@
     "name": "page",
     "version": "0.1.0",
     "private": true,
-    "homepage": "http://monicamolina.github.io/",
+    "homepage": "http://monicamolina.github.io/page",
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^1.2.35",
         "@fortawesome/react-fontawesome": "^0.1.14",
@@ -18,7 +18,7 @@
         "web-vitals": "^1.0.1"
     },
     "scripts": {
-        "predeploy": "npm run build",
+        "predeploy": "npm run build && echo 'monicamolina.github.io' > ./build/CNAME ",
         "deploy": "gh-pages -d build",
         "start": "react-scripts start",
         "build": "react-scripts build",
