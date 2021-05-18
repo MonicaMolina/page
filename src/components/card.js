@@ -1,5 +1,5 @@
 //const iconIMG = "./img/logog.png";
-import iconIMG from "./img/logog.png";
+import iconIMG from "../img/logog.png";
 import "./card.css";
 
 function Card() {

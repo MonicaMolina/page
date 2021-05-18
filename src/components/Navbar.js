@@ -1,6 +1,6 @@
 import * as ReactBootStrap from "react-bootstrap";
-import iconIMG from "./img/logog.png";
-import iconIMGd from "./img/Logo.png";
+import iconIMG from "../img/logog.png";
+import iconIMGd from "../img/Logo.png";
 import './Navbar.css';
 
 function Navbar() {

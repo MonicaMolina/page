@@ -1,7 +1,7 @@
 #hero-img {
     height: 500px;
     background-color: #373839;
-    background: linear-gradient(to bottom, rgb(220, 221, 222), #373839), url("./img/665C2A21-59E6-437F-8B8D-405215BBB996_1_105_c.jpeg");
+    background: linear-gradient(to bottom, rgb(220, 221, 222), #373839), url("../img/665C2A21-59E6-437F-8B8D-405215BBB996_1_105_c.jpeg");
     background-blend-mode: multiply;
     background-size: cover;
     background-repeat: no-repeat;

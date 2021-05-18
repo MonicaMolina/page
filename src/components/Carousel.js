@@ -1,7 +1,7 @@
 import Carousel from 'react-bootstrap/Carousel';
-import video from "./img/video.mp4";
-import plataforma from "./img/plataforma.mov";
-import banner from "./img/665C2A21-59E6-437F-8B8D-405215BBB996_1_105_c.jpeg";
+import video from "../img/video.mp4";
+import plataforma from "../img/plataforma.mov";
+import banner from "../img/665C2A21-59E6-437F-8B8D-405215BBB996_1_105_c.jpeg";
 import './Carousel.css';
 
 function Carrucel() {

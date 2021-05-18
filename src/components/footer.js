@@ -4,7 +4,7 @@ import './footer.css';
 
 function footer() {
     return (
-      <div id="contain-footer" className="row w-100">
+        <div id="contain-footer" className="row w-100">
             <a href="/artículos.html" className="enlaces col-12 col-md-6 col-lg-3">
                 <div className="row p-3">
                     <p className="title col-12">Artículos</p>
