@@ -12,7 +12,7 @@ function App() {
     <div className="body App">
       <Navbar />
       <Router>
-      <Home path="/" 
+      <Home path="/page" 
       />
       </Router>
       <Footer />
