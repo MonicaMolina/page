@@ -29,9 +29,9 @@ function footer() {
                 </div>
             </a>
 
-            <a href="https://twitter.com/MolinaConsult" target="_blank" className="contacts col-12 col-md-6 col-lg-3">
+            <a href="https://twitter.com/monyemj" target="_blank" className="contacts col-12 col-md-6 col-lg-3">
                 <div className="row p-3">
-                    <p className="title col-12"> <i className="fab fa-twitter fa-lg"></i> <span></span>@MolinaConsult </p>
+                    <p className="title col-12"> <i className="fab fa-twitter fa-lg"></i> <span></span>@monyemj </p>
                 </div>
             </a>
 
@@ -48,30 +48,22 @@ function footer() {
                 </div>
             </a>
 
-            <a href="mailto:wersocialscientists@gmail.com" className="contacts col-12 col-md-6 col-lg-3">
+            <a href="mailto:monicaesthermj@gmail.com" className="contacts col-12 col-md-6 col-lg-3">
                 <div className="row p-3">
                     <p className="title col-12"> <i className="far fa-envelope fa-lg"></i>
-                        <span></span>wersocialscientists@gmail.com</p>
+                        <span></span>monicaesthermj@gmail.com</p>
                 </div>
             </a>
 
-            <a href="" className="contacts col-12 col-md-6 col-lg-3">
+            <a href="https://www.linkedin.com/in/monicaemolinaj/" className="contacts col-12 col-md-6 col-lg-3">
                 <div className="row p-3">
-                    <p className="title col-12"> <i className="fab fa-linkedin fa-lg"></i> <span></span>Molina Consultores</p>
+                    <p className="title col-12"> <i className="fab fa-linkedin fa-lg"></i> <span></span>Mónica Esther Molina Jasso</p>
                 </div>
             </a>
 
-            <a href="https://github.com/MolinaConsulting" className="contacts col-12 col-md-6 col-lg-3">
+            <a href="https://github.com/MonicaMolina" className="contacts col-12 col-md-6 col-lg-3">
                 <div className="row p-3">
-                    <p className="title col-12"> <i className="fab fa-github fa-lg"></i> <span></span>MolinaConsulting</p>
-                </div>
-            </a>
-
-            <a href="https://www.google.com.mx/maps/search/tulipan+azul+55+sendas+residencial/@20.7224666,-103.4896158,12z/data=!3m1!4b1"
-                className="contacts col-12 col-md-6 col-lg-3">
-                <div className="row p-3">
-                    <p className="title col-12"> <i className="fas fa-map-marker-alt fa-lg"></i> <span></span>Zapopan, Jalisco,
-                        México.</p>
+                    <p className="title col-12"> <i className="fab fa-github fa-lg"></i> <span></span>MonicaMolina</p>
                 </div>
             </a>
 
