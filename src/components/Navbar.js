@@ -28,7 +28,7 @@ function Navbar() {
             Contacto
           </ReactBootStrap.Nav.Link>
         </ReactBootStrap.Nav>
-        <ReactBootStrap.Form className="d-flex">
+        {/* <ReactBootStrap.Form className="d-flex">
           <ReactBootStrap.FormControl
             type="search"
             placeholder="Search"
@@ -36,7 +36,7 @@ function Navbar() {
             aria-label="Search"
           />
           <ReactBootStrap.Button variant="outline-success">Búsqueda</ReactBootStrap.Button>
-        </ReactBootStrap.Form>
+        </ReactBootStrap.Form> */}
         </ReactBootStrap.Navbar.Collapse>
         </ReactBootStrap.Navbar>
         );

@@ -9,9 +9,6 @@ function Home() {
             <div id="hero" className="row d-blok w-100">
             <Hero />
             </div>
-            <div id="gallery" className="row col-12">
-            <Carousel />
-            </div>
             <div className="container d-flex justify-content-center align-items-center">
                 <div className="col-6">
                 <Card />
@@ -22,6 +19,9 @@ function Home() {
                     position="relative"/>
                 </div>
                 </div>
+            </div>
+            <div id="gallery" className="row col-12">
+            <Carousel />
             </div>
         </div>
         );

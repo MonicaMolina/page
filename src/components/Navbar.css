@@ -1,11 +1,12 @@
-#Icond {
-    height: 60px;
-    width: 60px;
+#Icon {
+    height: 45px !important;
+    width: 45px !important;
 }
 
 Nav {
     background-color: #D6BA73;
-    height: 75px;
+    height: 50px;
+    font-family: 'Quicksand';
     }
 
 Nav .Brand p {

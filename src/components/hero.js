@@ -61,7 +61,7 @@ window.onload = function() {
 function Hero() {
     return (
 <div id="hero-img" className="inner d-flex justify-content-center align-items-center">
-<p className="typewrite" data-period="2000" data-type='[ "Molina Consultores", "Soluciones basadas en datos.","Talleres.", "Imagen y Posicionamiento Mediático." ]'>
+<p className="typewrite" data-period="2000" data-type='[ "Mónica Esther Molina Jasso", "Soluciones basadas en datos","Social Data Scientist", "Elecciones y Finanzas Públicas" ]'>
 <span className="wrap"></span></p>
 </div>
     );
