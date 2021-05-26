@@ -24,3 +24,8 @@
     color:#363738 !important;
     border-color: #363738 !important;
 }
+
+#card-each {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}

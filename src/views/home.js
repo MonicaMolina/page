@@ -1,6 +1,7 @@
 import Card from '../components/card';
 import Carousel from '../components/Carousel';
 import Hero from '../components/hero';
+import Iframe from 'react-iframe';
 
 function Home() {
     return(
@@ -14,11 +15,12 @@ function Home() {
             <div className="container d-flex justify-content-center align-items-center">
                 <div className="col-6">
                 <Card />
-                <Card />
-                <Card />
-                <Card />
-                <Card />
-                <Card />
+                <div className="row">
+                <Iframe url="http://www.youtube.com/embed/xDMP3i36naA"
+                    width="450px"
+                    height="450px"
+                    position="relative"/>
+                </div>
                 </div>
             </div>
         </div>
