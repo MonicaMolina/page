@@ -1,14 +1,14 @@
-import Card from '../components/card';
+import Card from '../components/Card';
 import Carousel from '../components/Carousel';
-import Hero from '../components/hero';
+import Hero from '../components/Hero';
+import Aboutme from '../components/Aboutme';
 import Iframe from 'react-iframe';
 
 function Home() {
     return(
         <div className= "container-fluid Body-Home">
-            <div id="hero" className="row d-blok w-100">
             <Hero />
-            </div>
+            <Aboutme />
             <div className="container d-flex justify-content-center align-items-center">
                 <div className="col-6">
                 <Card />
@@ -20,9 +20,7 @@ function Home() {
                 </div>
                 </div>
             </div>
-            <div id="gallery" className="row col-12">
             <Carousel />
-            </div>
         </div>
         );
     }

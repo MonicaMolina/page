@@ -1,0 +1,24 @@
+#Aboutme {
+    height: 450px;
+}
+
+#imagen {
+    margin-top: 50px;
+    height: 400px; 
+    width: auto;
+}
+
+#text {
+    margin-top: 60px;
+    color: white;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.texto {
+    text-align: justify;
+}

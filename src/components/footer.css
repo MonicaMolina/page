@@ -7,10 +7,10 @@
     margin: 0%;
 }
 
-.contacts {
+#contain-footer .contacts {
     font-family: 'Quicksand';
-    font-weight: 400;
-    font-size: 13px;
+    font-weight: 200;
+    font-size: 15px;
     color:white;
 }
 
