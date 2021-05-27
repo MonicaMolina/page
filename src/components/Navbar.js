@@ -8,16 +8,16 @@ import './Navbar.css';
 function Navb() {
   return (
 <Navbar bg="" expand="lg" sticky="top">
-  <Navbar.Brand href="/page"> <img id="Icon" src= {iconIMG} alt=""/></Navbar.Brand>
+  <Navbar.Brand href="/page"> <img id="Icon" src= {iconIMG} alt=""/> Mónica Esther Molina Jasso</Navbar.Brand>
   <Navbar.Toggle aria-controls="navbarScroll" />
   <Navbar.Collapse id="navbarScroll">
     <Nav className="mr-auto my-2 my-lg-0">
-      <Nav.Link href="/page#Aboutme">Acerca de mí</Nav.Link>
-      <Nav.Link href="/page#Carrucel">Molina Consultores</Nav.Link>
+      <Nav.Link href="#Aboutme">Acerca de mí</Nav.Link>
+      <Nav.Link href="#Component">Molina Consultores</Nav.Link>
       <NavDropdown title="Currículum" id="navbarScrollingDropdown">
-        <NavDropdown.Item href="/page#Card">Trayectoria Laboral</NavDropdown.Item>
-        <NavDropdown.Item href="#action4">Trabajos de investigación</NavDropdown.Item>
-        <NavDropdown.Item href="#action5">Formación Académica</NavDropdown.Item>
+        <NavDropdown.Item href="#trayectoria">Trayectoria Laboral</NavDropdown.Item>
+        <NavDropdown.Item href="#trayectoriaI">Trabajos de investigación</NavDropdown.Item>
+        <NavDropdown.Item href="#trayectoriaA">Formación Académica</NavDropdown.Item>
         <NavDropdown.Divider />
       </NavDropdown>
       <Nav.Link href="/page#Footer">Contacto</Nav.Link>

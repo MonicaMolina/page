@@ -1,0 +1,37 @@
+#trayectoria {
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+    font-family: 'Quicksand';
+    font-weight: 500;
+    font-size: 30px;
+}
+
+#trayectoriaI {
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+    font-family: 'Quicksand';
+    font-weight: 500;
+    font-size: 30px;
+}
+
+#trayectoriaA {
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+    font-family: 'Quicksand';
+    font-weight: 500;
+    font-size: 30px;
+}
+#Component {
+    color: white;
+    font-family: 'Quicksand';
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+}
+
+#Component img {
+    padding-bottom: 8px;
+}
