@@ -1,7 +1,7 @@
 import Carousel from 'react-bootstrap/Carousel';
 import video from "../img/video.mp4";
 import plataforma from "../img/plataforma.mov";
-import banner from "../img/665C2A21-59E6-437F-8B8D-405215BBB996_1_105_c.jpeg";
+import banner from "../img/mapa.png";
 import './Carousel.css';
 
 function Carrucel() {
@@ -15,8 +15,8 @@ function Carrucel() {
         autoPlay loop
       />
       <Carousel.Caption>
-        <h3>First slide label</h3>
-        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+        <h3>Datos Geográficos</h3>
+        <p>Herramientas para la toma de decisiones con datos de movilidad y censales de INEGI.</p>
       </Carousel.Caption>
     </Carousel.Item>
     <Carousel.Item interval={16000}>
@@ -27,8 +27,8 @@ function Carrucel() {
         autoPlay loop
       />
       <Carousel.Caption>
-        <h3>Second slide label</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <h3>Plataforma Electoral en contrucción</h3>
+        <p>Actualmente estoy trabajando en el desarrollo de una herramienta electoral que permita visualizar todas las elecciones locales y federales desde el 2000 hasta el nivel seccional.</p>
       </Carousel.Caption>
     </Carousel.Item>
     <Carousel.Item>
@@ -38,8 +38,8 @@ function Carrucel() {
         alt="Third slide"
       />
       <Carousel.Caption>
-        <h3>Third slide label</h3>
-        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+        <h3>Ingeniería Electoral</h3>
+        <p>Estrategia electoral basada en datos muestrales, censales y proyección electoral.</p>
       </Carousel.Caption>
     </Carousel.Item>
   </Carousel>
