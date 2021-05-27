@@ -1,11 +1,14 @@
 import Card from '../components/Card';
-import Carrucel from '../components/Carousel';
+import Carrucel from '../components/Carrucel';
 import Hero from '../components/Hero';
 import Aboutme from '../components/Aboutme';
+import Footer from '../components/Footer';
+import Navbar from '../components/Navbar';
 
 function Home() {
     return(
-        <div className= "container-fluid Body-Home">
+        <div className= "Body-Home">
+            <Navbar />
             <Hero />
             <Aboutme />
             <div className="container d-flex justify-content-center align-items-center">
@@ -14,6 +17,7 @@ function Home() {
                 </div>
             </div>
             <Carrucel />
+            <Footer />
         </div>
         );
     }

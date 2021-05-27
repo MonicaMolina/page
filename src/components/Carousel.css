@@ -9,3 +9,21 @@ video {
     width: auto;
     height: 700px;
 }
+
+#mapa {
+    margin-left: 170px;
+    height: 700px;
+    width: auto;
+}
+
+#title-map {
+    color: #000;
+}
+
+#text-map {
+    color: #000;
+}
+
+#title-video {
+    color: #fff;
+}

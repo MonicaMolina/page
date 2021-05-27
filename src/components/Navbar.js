@@ -1,45 +1,30 @@
-import * as ReactBootStrap from "react-bootstrap";
+// import * as ReactBootStrap from "react-bootstrap";
+import Navbar from 'react-bootstrap/Navbar';
+import Nav from 'react-bootstrap/Nav';
+import NavDropdown from 'react-bootstrap/NavDropdown';
 import iconIMG from "../img/logog.png";
-import iconIMGd from "../img/Logo.png";
 import './Navbar.css';
 
-function Navbar() {
-    return (
-      <ReactBootStrap.Navbar bg="" expand="lg" sticky="top">
-      <ReactBootStrap.Navbar.Brand href="/page">
-        <img id="Icon" src={iconIMG} className="img-bottom" alt="Card End"/>
-        <img id="Icond" src= {iconIMGd} className="img-top" alt="Card Front" />
-        Mónica Molina</ReactBootStrap.Navbar.Brand>
-      <ReactBootStrap.Navbar.Toggle aria-controls="navbarScroll" />
-      <ReactBootStrap.Navbar.Collapse id="navbarScroll">
-        <ReactBootStrap.Nav
-          className="mr-auto my-2 my-lg-0"
-          style={{ maxHeight: '100px' }}
-        >
-          <ReactBootStrap.Nav.Link href="/Biography">Acerca de mí</ReactBootStrap.Nav.Link>
-          <ReactBootStrap.Nav.Link href="#action2">Molina Consultores</ReactBootStrap.Nav.Link>
-          <ReactBootStrap.NavDropdown title="Link" id="navbarScrollingDropdown">
-            <ReactBootStrap.NavDropdown.Item href="#action3">Action</ReactBootStrap.NavDropdown.Item>
-            <ReactBootStrap.NavDropdown.Item href="#action4">Another action</ReactBootStrap.NavDropdown.Item>
-            <ReactBootStrap.NavDropdown.Divider />
-            <ReactBootStrap.NavDropdown.Item href="#action5">Something else here</ReactBootStrap.NavDropdown.Item>
-          </ReactBootStrap.NavDropdown>
-          <ReactBootStrap.Nav.Link href="/Contact">
-            Contacto
-          </ReactBootStrap.Nav.Link>
-        </ReactBootStrap.Nav>
-        {/* <ReactBootStrap.Form className="d-flex">
-          <ReactBootStrap.FormControl
-            type="search"
-            placeholder="Search"
-            className="mr-2"
-            aria-label="Search"
-          />
-          <ReactBootStrap.Button variant="outline-success">Búsqueda</ReactBootStrap.Button>
-        </ReactBootStrap.Form> */}
-        </ReactBootStrap.Navbar.Collapse>
-        </ReactBootStrap.Navbar>
+function Navb() {
+  return (
+<Navbar bg="" expand="lg" sticky="top">
+  <Navbar.Brand href="/page"> <img id="Icon" src= {iconIMG} alt=""/></Navbar.Brand>
+  <Navbar.Toggle aria-controls="navbarScroll" />
+  <Navbar.Collapse id="navbarScroll">
+    <Nav className="mr-auto my-2 my-lg-0">
+      <Nav.Link href="/page#Aboutme">Acerca de mí</Nav.Link>
+      <Nav.Link href="/page#Carrucel">Molina Consultores</Nav.Link>
+      <NavDropdown title="Currículum" id="navbarScrollingDropdown">
+        <NavDropdown.Item href="/page#Card">Trayectoria Laboral</NavDropdown.Item>
+        <NavDropdown.Item href="#action4">Trabajos de investigación</NavDropdown.Item>
+        <NavDropdown.Item href="#action5">Formación Académica</NavDropdown.Item>
+        <NavDropdown.Divider />
+      </NavDropdown>
+      <Nav.Link href="/page#Footer">Contacto</Nav.Link>
+    </Nav>
+  </Navbar.Collapse>
+</Navbar>
         );
         }
 
-export default Navbar;
+export default Navb;
