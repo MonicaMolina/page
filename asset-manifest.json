@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/page/static/css/main.e4d89070.chunk.css",
-    "main.js": "/page/static/js/main.12d3bac0.chunk.js",
-    "main.js.map": "/page/static/js/main.12d3bac0.chunk.js.map",
-    "runtime-main.js": "/page/static/js/runtime-main.77d23da0.js",
-    "runtime-main.js.map": "/page/static/js/runtime-main.77d23da0.js.map",
+    "main.css": "/page/static/css/main.9d37134a.chunk.css",
+    "main.js": "/page/static/js/main.46c20584.chunk.js",
+    "main.js.map": "/page/static/js/main.46c20584.chunk.js.map",
+    "runtime-main.js": "/page/static/js/runtime-main.5b8d9687.js",
+    "runtime-main.js.map": "/page/static/js/runtime-main.5b8d9687.js.map",
     "static/css/2.acd75131.chunk.css": "/page/static/css/2.acd75131.chunk.css",
-    "static/js/2.5bdf0873.chunk.js": "/page/static/js/2.5bdf0873.chunk.js",
-    "static/js/2.5bdf0873.chunk.js.map": "/page/static/js/2.5bdf0873.chunk.js.map",
-    "static/js/3.d6df7b99.chunk.js": "/page/static/js/3.d6df7b99.chunk.js",
-    "static/js/3.d6df7b99.chunk.js.map": "/page/static/js/3.d6df7b99.chunk.js.map",
+    "static/js/2.e442f427.chunk.js": "/page/static/js/2.e442f427.chunk.js",
+    "static/js/2.e442f427.chunk.js.map": "/page/static/js/2.e442f427.chunk.js.map",
+    "static/js/3.6c973bca.chunk.js": "/page/static/js/3.6c973bca.chunk.js",
+    "static/js/3.6c973bca.chunk.js.map": "/page/static/js/3.6c973bca.chunk.js.map",
     "index.html": "/page/index.html",
     "static/css/2.acd75131.chunk.css.map": "/page/static/css/2.acd75131.chunk.css.map",
-    "static/css/main.e4d89070.chunk.css.map": "/page/static/css/main.e4d89070.chunk.css.map",
-    "static/js/2.5bdf0873.chunk.js.LICENSE.txt": "/page/static/js/2.5bdf0873.chunk.js.LICENSE.txt",
+    "static/css/main.9d37134a.chunk.css.map": "/page/static/css/main.9d37134a.chunk.css.map",
+    "static/js/2.e442f427.chunk.js.LICENSE.txt": "/page/static/js/2.e442f427.chunk.js.LICENSE.txt",
     "static/media/hero.css": "/page/static/media/665C2A21-59E6-437F-8B8D-405215BBB996_1_105_c.88054307.jpeg",
+    "static/media/66991953-5F5C-45CD-B203-BD6896C84ED5.46682e3a.jpeg": "/page/static/media/66991953-5F5C-45CD-B203-BD6896C84ED5.46682e3a.jpeg",
     "static/media/Congreso.png": "/page/static/media/Congreso.c5769f0a.png",
     "static/media/Consulado.jpg": "/page/static/media/Consulado.85260af3.jpg",
     "static/media/IPEA.png": "/page/static/media/IPEA.6095d059.png",
@@ -28,10 +29,10 @@
     "static/media/video.1e94f2f4.mp4": "/page/static/media/video.1e94f2f4.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.77d23da0.js",
+    "static/js/runtime-main.5b8d9687.js",
     "static/css/2.acd75131.chunk.css",
-    "static/js/2.5bdf0873.chunk.js",
-    "static/css/main.e4d89070.chunk.css",
-    "static/js/main.12d3bac0.chunk.js"
+    "static/js/2.e442f427.chunk.js",
+    "static/css/main.9d37134a.chunk.css",
+    "static/js/main.46c20584.chunk.js"
   ]
 }
