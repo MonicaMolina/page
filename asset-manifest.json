@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/page/static/css/main.db2e2694.chunk.css",
-    "main.js": "/page/static/js/main.9b19eec3.chunk.js",
-    "main.js.map": "/page/static/js/main.9b19eec3.chunk.js.map",
+    "main.css": "/page/static/css/main.59a6fea8.chunk.css",
+    "main.js": "/page/static/js/main.828368ac.chunk.js",
+    "main.js.map": "/page/static/js/main.828368ac.chunk.js.map",
     "runtime-main.js": "/page/static/js/runtime-main.0d97ecd3.js",
     "runtime-main.js.map": "/page/static/js/runtime-main.0d97ecd3.js.map",
     "static/css/2.acd75131.chunk.css": "/page/static/css/2.acd75131.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.ce379760.chunk.js.map": "/page/static/js/3.ce379760.chunk.js.map",
     "index.html": "/page/index.html",
     "static/css/2.acd75131.chunk.css.map": "/page/static/css/2.acd75131.chunk.css.map",
-    "static/css/main.db2e2694.chunk.css.map": "/page/static/css/main.db2e2694.chunk.css.map",
+    "static/css/main.59a6fea8.chunk.css.map": "/page/static/css/main.59a6fea8.chunk.css.map",
     "static/js/2.340c9d02.chunk.js.LICENSE.txt": "/page/static/js/2.340c9d02.chunk.js.LICENSE.txt",
     "static/media/1858-las-reformas-politicas-a-la-representacion-en-america-latina-detalle.jpeg": "/page/static/media/1858-las-reformas-politicas-a-la-representacion-en-america-latina-detalle.0b02cb58.jpeg",
     "static/media/hero.css": "/page/static/media/665C2A21-59E6-437F-8B8D-405215BBB996_1_105_c.88054307.jpeg",
@@ -35,7 +35,7 @@
     "static/js/runtime-main.0d97ecd3.js",
     "static/css/2.acd75131.chunk.css",
     "static/js/2.340c9d02.chunk.js",
-    "static/css/main.db2e2694.chunk.css",
-    "static/js/main.9b19eec3.chunk.js"
+    "static/css/main.59a6fea8.chunk.css",
+    "static/js/main.828368ac.chunk.js"
   ]
 }
