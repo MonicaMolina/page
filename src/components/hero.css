@@ -10,8 +10,23 @@
 
 .typewrite {
     color: white;
-    font-size: 68px;
+    font-size: 70px;
     font-stretch: extra-expanded;
     font-family: 'Quicksand';
     font-weight: 400;
+}
+
+
+@media screen and (max-width: 767px) {   
+    .tipewrite {font-size: 65px;}
+    }
+
+@media screen and (min-width: 768px) {      
+    .tipewrite {font-size: 68px;}
+} 
+@media (min-width: 992px) {      
+    .tipewrite {font-size: 70px;}
+}
+@media (min-width: 1200px) {    
+    .tipewrite {font-size: 70px;}
 }

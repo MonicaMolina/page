@@ -29,7 +29,7 @@ video {
 
 @media screen and (min-width: 768px) {      
     #mapa {
-        margin-left: 5px;
+        margin-left: 8px;
         height: 700px;
         width: auto;
     }
