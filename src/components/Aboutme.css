@@ -14,14 +14,14 @@
 
 @media screen and (max-width: 767px) {   
     #imagen {
-            margin-top: 20px;
-            height: 250px; 
+            margin-top: 80px;
+            height: 170px; 
             width: auto;}
-    .texto {font-size: 10px;}
-    .title {font-size: 15px;}
+    .texto {font-size: 9px;}
+    .title {font-size: 10px;}
     #Aboutme {
-        height: 290px;}
-    #text {margin-top: 20px;}
+        height: 300px;}
+    #text {margin-top: 10px;}
     }
 
 @media screen and (min-width: 768px) {      
