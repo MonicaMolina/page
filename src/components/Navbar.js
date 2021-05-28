@@ -18,9 +18,8 @@ function Navb() {
         <NavDropdown.Item href="#trayectoria">Trayectoria Laboral</NavDropdown.Item>
         <NavDropdown.Item href="#trayectoriaI">Trabajos de investigación</NavDropdown.Item>
         <NavDropdown.Item href="#trayectoriaA">Formación Académica</NavDropdown.Item>
-        <NavDropdown.Divider />
       </NavDropdown>
-      <Nav.Link href="/page#Footer">Contacto</Nav.Link>
+      <Nav.Link href="#Contact">Contacto</Nav.Link>
     </Nav>
   </Navbar.Collapse>
 </Navbar>

@@ -35,3 +35,18 @@
 #Component img {
     padding-bottom: 8px;
 }
+
+#Contact {
+    height: 200px;
+    margin-top: 50px;
+}
+
+#Contact p {
+    height: 100px;
+    color: white;
+    font-family: 'Quicksand';
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+    justify-content: center;
+}

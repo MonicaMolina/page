@@ -27,6 +27,14 @@ function Home() {
             </div>
             <p id="Component"><img id="Icon" src= {iconIMG} alt=""/> Molina Consultores</p>
             <Carrucel />
+            <div id="Contact" className="row w-100">
+            <div className="col-2"></div>
+            <div className="col-8">
+            <p>¿Te interesa colaborar conmigo o tienes alguna propuesta laboral?</p>
+            <p>Contáctame por cualquiera de los medios que aparecen abajo. </p>
+            </div>
+            <div className="col-2"></div>
+            </div>
             <Footer />
         </div>
         );

@@ -9,6 +9,10 @@ Nav {
     font-family: 'Quicksand';
     }
 
+    #navbarScroll {
+        background-color: #D6BA73;
+    }
+
 Nav .Brand p {
     text-align: center;
 }
