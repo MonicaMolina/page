@@ -3,21 +3,21 @@ import "./carde.css";
 const  ponencias = [
     {
         icon: require("../img/AMECIP.png").default,
-        institution: "4to Seminario de Investigación del Laboratorio de Innovación Democrática LID",
+        institution: "VIII Congreso Internacional de Ciencia Política. AMECIP.",
         topic: "Cultura política, disputa por los cargos de representación.",
         title: "Ponencia presentada: Metamorfosis del Sistema de Partidos Mexicano: El Efecto de las Candidaturas Independientes",
         date: "9 de diciembre de 2020",
     },
     {  
         icon: require("../img/1858-las-reformas-politicas-a-la-representacion-en-america-latina-detalle.jpeg").default,
-        institution: "UNAM",
+        institution: "Segundo Seminario Internacional: “Las reformas políticas a la representación en América Latina. UNAM",
         topic: "Partidos y Sitemas de Partidos",
         title: "Ponencia aceptada: Metamorfosis del Sistema de Partidos Mexicano: El Efecto de las Candidaturas Independientes",
         date: "30 de septiembre al 2 de octubre de 2020 en la Ciudad de México",
     },
     {
         icon: require("../img/LID.jpg").default,
-        institution: "VIII Congreso Internacional de Ciencia Política. AMECIP.",
+        institution: "4to Seminario de Investigación del Laboratorio de Innovación Democrática LID",
         topic: "Partidos y Sitemas de Partidos",
         title: "Ponencia presentada: Metamorfosis del Sistema de Partidos Mexicano: El Efecto de las Candidaturas Independientes",
         date: "20 de marzo 2020",
