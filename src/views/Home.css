@@ -24,7 +24,6 @@
 #Component {
     color: white;
     font-family: 'Quicksand';
-    font-size: 50px;
     font-weight: 400;
     text-align: center;
 }
@@ -51,11 +50,14 @@
 @media screen and (max-width: 767px) {   
     #Contact p {font-size: 18px;}
     #trayectoria {
-        padding-top: 10px;}
+        padding-top: 5px;}
     #trayectoriaI {
-            padding-top: 10px}
+            padding-top: 5px}
     #trayectoriaA {
-                padding-top: 10px;}
+                padding-top: 5px;}
+    #Component {
+                font-size: 5px;
+                }
     }
 
 @media screen and (min-width: 768px) {      
@@ -66,6 +68,9 @@
             padding-top: 10px}
     #trayectoriaA {
                 padding-top: 10px;}
+    #Component {
+                font-size: 30px;
+                }
 } 
 @media (min-width: 992px) {      
     #Contact p {font-size: 22px;}
@@ -75,6 +80,9 @@
             padding-top: 25px}
     #trayectoriaA {
                 padding-top: 25px;}
+    #Component {
+                font-size: 50px;
+                }
 }
 @media (min-width: 1200px) {    
     #Contact p {font-size: 25px;}
@@ -84,4 +92,7 @@
             padding-top: 30px}
     #trayectoriaA {
                 padding-top: 30px;}
+    #Component {
+        font-size: 50px;
+    }
 }
