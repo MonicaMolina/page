@@ -1,6 +1,24 @@
-#icon-card {
+/* #icon-card {
     height: auto;
     width: 90px;
+} */
+
+@media screen and (max-width: 767px) {   
+    #icon-card {width: 40px;}
+    #text-card {font-size: 10px;}
+    }
+
+@media screen and (min-width: 768px) {      
+    #icon-card {width: 55px;}
+    #text-card {font-size: 12px;}
+} 
+@media (min-width: 992px) {      
+    #icon-card {width: 75px;}
+    #text-card {font-size: 14px;} 
+}
+@media (min-width: 1200px) {    
+    #icon-card {width: 85px;} 
+    #text-card {font-size: 16px;}
 }
 
 #text-card {

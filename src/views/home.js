@@ -16,7 +16,7 @@ function Home() {
             <Hero />
             <Aboutme />
             <div className="container d-flex justify-content-center align-items-center">
-                <div className="col-6">
+                <div className="col-lg-6 col-md-10 col-sm-12 col-sx-12">
                 <p id="trayectoria">Trayectoria Laboral</p>
                 <Card />
                 <p id="trayectoriaI">Trabajos de Investigación</p>

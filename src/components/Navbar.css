@@ -1,7 +1,33 @@
-#Icon {
-    height: 45px !important;
-    width: 45px !important;
+@media screen and (max-width: 767px) {   
+    #Icon {
+        height: 35px !important;
+        width: 35px !important;
+    }
+    .Toggle {height: 30px;
+        width:auto;
+        margin: 0%;
+        padding: 0%;}
+    }
+
+@media screen and (min-width: 768px) {      
+    #Icon {
+        height: 40px !important;
+        width: 40px !important;
+    }
+} 
+@media (min-width: 992px) {      
+    #Icon {
+        height: 42px !important;
+        width: 42px !important;
+    }
 }
+@media (min-width: 1200px) {    
+    #Icon {
+        height: 45px !important;
+        width: 45px !important;
+    }
+}
+
 
 Nav {
     background-color: #D6BA73;

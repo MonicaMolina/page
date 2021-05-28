@@ -10,10 +10,43 @@ video {
     height: 700px;
 }
 
-#mapa {
-    margin-left: 170px;
-    height: 700px;
-    width: auto;
+@media screen and (max-width: 767px) {   
+    #mapa {
+        height: 300px;
+        width: auto;
+    }
+    .carousel {
+        height: 300px;
+    }
+    .carousel-inner {
+        height: 300px;
+    }
+    video {
+        width: auto;
+        height: 300px;
+    }
+    }
+
+@media screen and (min-width: 768px) {      
+    #mapa {
+        margin-left: 5px;
+        height: 700px;
+        width: auto;
+    }
+} 
+@media (min-width: 992px) {      
+    #mapa {
+        margin-left: 10px;
+        height: 700px;
+        width: auto;
+    }
+}
+@media (min-width: 1200px) {    
+    #mapa {
+        margin-left: 170px;
+        height: 700px;
+        width: auto;
+    }
 }
 
 #title-map {

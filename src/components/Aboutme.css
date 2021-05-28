@@ -1,26 +1,59 @@
-#Aboutme {
-    height: 450px;
-}
-
-#imagen {
-    margin-top: 50px;
-    height: 400px; 
-    width: auto;
-}
-
 #text {
-    margin-top: 60px;
     color: white;
     font-family: 'Quicksand';
 }
 
 .title {
-    font-size: 30px;
     font-weight: 600;
     text-align: center;
 }
 
 .texto {
     text-align: justify;
-    font-size: 18px;
+}
+
+@media screen and (max-width: 767px) {   
+    #imagen {
+            margin-top: 20px;
+            height: 250px; 
+            width: auto;}
+    .texto {font-size: 10px;}
+    .title {font-size: 15px;}
+    #Aboutme {
+        height: 290px;}
+    #text {margin-top: 20px;}
+    }
+
+@media screen and (min-width: 768px) {      
+    #imagen {
+        margin-top: 30px;
+        height: 350px; 
+        width: auto;}
+    .texto {font-size: 12px;}
+    .title {font-size: 20px;}
+    #Aboutme {
+        height: 380px;}
+    #text {margin-top: 20px;}
+} 
+@media (min-width: 992px) {      
+    #imagen {
+        margin-top: 40px;
+        height: 400px; 
+        width: auto;} 
+    .texto {font-size: 16px;}
+    .title {font-size: 24px;}
+    #Aboutme {
+        height: 440px;}
+    #text {margin-top: 40px;}
+}
+@media (min-width: 1200px) {    
+    #imagen {
+            margin-top: 50px;
+            height: 400px; 
+            width: auto;} 
+    .texto {font-size: 18px;}
+    .title {font-size: 30px;}
+    #Aboutme {
+        height: 450px;}
+    #text {margin-top: 60px;}
 }

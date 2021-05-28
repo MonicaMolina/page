@@ -1,17 +1,34 @@
-
 #contain-footer {
     background: #363738 !important;
-    height: 200px;
     padding-left: 10%;
     padding-right: 10%;
+    padding-top: 10px;
     margin: 0%;
 }
 
 #contain-footer .contacts {
     font-family: 'Quicksand';
     font-weight: 200;
-    font-size: 15px;
     color:white;
+}
+
+
+@media screen and (max-width: 767px) {   
+    #contain-footer .contacts { font-size: 10px;}
+    #contain-footer {height: 400px;}
+    }
+
+@media screen and (min-width: 768px) {      
+    #contain-footer .contacts { font-size: 10px;}
+    #contain-footer {height: 370px;}
+} 
+@media (min-width: 992px) {      
+    #contain-footer .contacts { font-size: 15px;}
+    #contain-footer {height: 200px;} 
+}
+@media (min-width: 1200px) {    
+    #contain-footer .contacts { font-size: 15px;}
+    #contain-footer {height: 200px;}
 }
 
 .contacts {
