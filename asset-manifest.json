@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/page/static/css/main.48bc9387.chunk.css",
-    "main.js": "/page/static/js/main.da13ad52.chunk.js",
-    "main.js.map": "/page/static/js/main.da13ad52.chunk.js.map",
-    "runtime-main.js": "/page/static/js/runtime-main.0d97ecd3.js",
-    "runtime-main.js.map": "/page/static/js/runtime-main.0d97ecd3.js.map",
+    "main.js": "/page/static/js/main.e6446ce6.chunk.js",
+    "main.js.map": "/page/static/js/main.e6446ce6.chunk.js.map",
+    "runtime-main.js": "/page/static/js/runtime-main.3c42b02b.js",
+    "runtime-main.js.map": "/page/static/js/runtime-main.3c42b02b.js.map",
     "static/css/2.acd75131.chunk.css": "/page/static/css/2.acd75131.chunk.css",
-    "static/js/2.340c9d02.chunk.js": "/page/static/js/2.340c9d02.chunk.js",
-    "static/js/2.340c9d02.chunk.js.map": "/page/static/js/2.340c9d02.chunk.js.map",
-    "static/js/3.ce379760.chunk.js": "/page/static/js/3.ce379760.chunk.js",
-    "static/js/3.ce379760.chunk.js.map": "/page/static/js/3.ce379760.chunk.js.map",
+    "static/js/2.9db051c4.chunk.js": "/page/static/js/2.9db051c4.chunk.js",
+    "static/js/2.9db051c4.chunk.js.map": "/page/static/js/2.9db051c4.chunk.js.map",
+    "static/js/3.468a2f39.chunk.js": "/page/static/js/3.468a2f39.chunk.js",
+    "static/js/3.468a2f39.chunk.js.map": "/page/static/js/3.468a2f39.chunk.js.map",
     "index.html": "/page/index.html",
     "static/css/2.acd75131.chunk.css.map": "/page/static/css/2.acd75131.chunk.css.map",
     "static/css/main.48bc9387.chunk.css.map": "/page/static/css/main.48bc9387.chunk.css.map",
-    "static/js/2.340c9d02.chunk.js.LICENSE.txt": "/page/static/js/2.340c9d02.chunk.js.LICENSE.txt",
+    "static/js/2.9db051c4.chunk.js.LICENSE.txt": "/page/static/js/2.9db051c4.chunk.js.LICENSE.txt",
     "static/media/1858-las-reformas-politicas-a-la-representacion-en-america-latina-detalle.jpeg": "/page/static/media/1858-las-reformas-politicas-a-la-representacion-en-america-latina-detalle.0b02cb58.jpeg",
     "static/media/hero.css": "/page/static/media/665C2A21-59E6-437F-8B8D-405215BBB996_1_105_c.88054307.jpeg",
     "static/media/66991953-5F5C-45CD-B203-BD6896C84ED5.46682e3a.jpeg": "/page/static/media/66991953-5F5C-45CD-B203-BD6896C84ED5.46682e3a.jpeg",
@@ -32,10 +32,10 @@
     "static/media/video.1e94f2f4.mp4": "/page/static/media/video.1e94f2f4.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d97ecd3.js",
+    "static/js/runtime-main.3c42b02b.js",
     "static/css/2.acd75131.chunk.css",
-    "static/js/2.340c9d02.chunk.js",
+    "static/js/2.9db051c4.chunk.js",
     "static/css/main.48bc9387.chunk.css",
-    "static/js/main.da13ad52.chunk.js"
+    "static/js/main.e6446ce6.chunk.js"
   ]
 }
