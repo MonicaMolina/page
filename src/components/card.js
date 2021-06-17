@@ -2,14 +2,6 @@ import "./carde.css";
 
 const  jobs = [
     {
-        icon: require("../img/Cuantrix.png").default,
-        position: "Project Manager del Programa Cuantrix de Fundación Televisa",
-        enterprise: "Learny Software",
-        period: "Junio 2021 - presente",
-        activities: "Coordinación de las actividades del proyecto, planificación e implementación del plan de trabajo y sus responsables, del cual se derivan las estrategias, actividades y alianzas estratégicas, análisis de los avances del proyecto,an del proyecto, tales como, coordinar reuniones con potenciales aliados, generar cartas de presentación del proyecto.",
-        direction:"https://cuantrix.mx",
-    },
-    {
         icon: require("../img/logog.png").default,
         position: "Consultora político-electoral",
         enterprise: "Independiente",
