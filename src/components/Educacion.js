@@ -5,7 +5,7 @@ const  educacion = [
         icon: require("../img/logo-itam.png").default,
         institution: "Instituto Tecnológico Autónomo de México",
         degree: "Licenciatura en Ciencia Política",
-        period: "2013 - 2019 (en proceso de titulación)",
+        period: "2013 - 2019 (Titulada)",
     },
     {
         icon: require("../img/logo-itam.png").default,
