@@ -19,7 +19,7 @@ function Navb() {
         <NavDropdown.Item href="#trayectoriaI">Trabajos de investigación</NavDropdown.Item>
         <NavDropdown.Item href="#trayectoriaA">Formación Académica</NavDropdown.Item>
       </NavDropdown>
-      <Nav.Link href="/">Español</Nav.Link>
+      <Nav.Link href="/">English</Nav.Link>
     </Nav>
   </Navbar.Collapse>
 </Navbar>
