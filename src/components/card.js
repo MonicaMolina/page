@@ -7,7 +7,7 @@ const jobs = [
         enterprise: "Integralia Consultores",
         period: "Enero 2022 - presente",
         activities: "Unidad de Estudios y Capacitación",
-        direction: "Integralia Consultores Goldsmith 37 11560 Ciudad de México, CDMX. (Ahora en Insurgentes Sur)",
+        direction: "Integralia Consultores Insurgentes Sur 1647-702 Col. San José Insurgentes 03900, CDMX",
     },
     {
         icon: require("../img/logog.png").default,
